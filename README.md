@@ -19,7 +19,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 [Repository URL](https://github.com/p3lm3shka1/Advice-generator-app)
 
-[Live site URL]()
+[Live site URL](https://p3lm3shka1.github.io/Advice-generator-app/)
 
 ## Built With
 
