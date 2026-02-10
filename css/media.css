@@ -1,0 +1,5 @@
+@media (max-width: 48rem) {
+  .container {
+    padding: var(--space-3);
+  }
+}
